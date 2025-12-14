@@ -145,13 +145,3 @@ systemctl status mariadb
 # Veritabanı bağlantısını test edin
 mysql -u poweruser -p powerdb
 ```
-
-## Kaynak
-
-Bu script, aşağıdaki kaynaktan yararlanılarak oluşturulmuştur:
-- https://orcacore.com/install-powerdns-almalinux-9/
-
-## Lisans
-
-Bu script eğitim amaçlıdır. Üretim ortamında kullanmadan önce test edin.
-
